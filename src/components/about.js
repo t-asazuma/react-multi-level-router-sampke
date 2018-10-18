@@ -8,7 +8,7 @@ class About extends React.Component {
     }
 
     render() {
-        console.log("test");
+        console.log("about");
         return (
             <div>about</div>
         );
